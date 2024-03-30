@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "Masejaya",
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
+
     "@Masejaya:registry": "https://npm.pkg.github.com/"
   },
   "repository": {
