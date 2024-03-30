@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Masejaya/tweet-harvest.git"
+    "url": "git+https://github.com/Masejaya/crawl-data-tweet.git"
   },
   "files": [
     "dist/"
